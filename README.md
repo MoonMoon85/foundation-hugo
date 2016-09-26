@@ -12,5 +12,5 @@ The idea behind this repository is to provide a base theme for building other th
 5. Preview your hugo site with `hugo server`
 6. Navigate to `localhost:1313` with a web browser.
 
-## Licensing
+## License
 [MIT License](http://choosealicense.com/licenses/mit/)
