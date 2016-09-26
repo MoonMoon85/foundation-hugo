@@ -1,0 +1,16 @@
+{
+  "name": "foundation-hugo",
+  "version": "0.1.0",
+  "description": "A starter repo for building a hugo site with Foundation styling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Torleif Nielsen",
+  "license": "MIT",
+  "devDependencies": {
+    "css-brunch": "^2.6.1",
+    "javascript-brunch": "^2.0.0",
+    "sass-brunch": "^2.6.3"
+  }
+}
