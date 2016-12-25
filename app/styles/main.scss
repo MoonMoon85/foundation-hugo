@@ -1,3 +1,7 @@
 @import 'settings';
-@import 'components';
-@import 'layouts';
+@import 'foundation';
+@include foundation-everything;
+@import "motion-ui";
+@include motion-ui-transitions;
+
+@import 'custom';
