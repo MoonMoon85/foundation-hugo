@@ -2,7 +2,7 @@
 A hugo starter file directory with ZURB Foundation 6 styling and events included.
 
 ## Purpose
-The idea behind this repository is to provide a base theme for building other themes.
+The idea behind this repository is to provide a base site for building other sites.
 
 ## Getting started
 1. Install Node & npm [Node.js](https://nodejs.org/en/)
